@@ -16,4 +16,12 @@ A simulation of the circuit may be found [here](https://falstad.com/circuit/circ
 
 ## Implementation
 
+Main protoboard soldered up with the components that will attached to the enclosusure on the breadboard.
+
 ![Pre-box implementation](impl1.jpg)
+
+## Enclosure
+
+And it all nicely sat in an enclosure.
+
+![Encolsure](enclosure.jpg)
